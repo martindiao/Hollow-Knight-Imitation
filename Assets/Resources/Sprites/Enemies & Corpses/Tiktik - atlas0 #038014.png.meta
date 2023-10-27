@@ -111,7 +111,7 @@ TextureImporter:
       213: 3527313545701718796
     second: Tiktik - atlas0 #038014_18
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -131,6 +131,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -139,9 +141,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -162,9 +164,13 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -545,7 +551,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ccdef12ff10e29500800000000000000
-      internalID: 401629744600182220
+      internalID: -8488480918350911117
       vertices: []
       indices: 
       edges: []
@@ -581,6 +587,25 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Tiktik - atlas0 #038014_6: 7804714112650058942
+      Tiktik - atlas0 #038014_11: 3321694299836128347
+      Tiktik - atlas0 #038014_13: 6348521558528104099
+      Tiktik - atlas0 #038014_8: -705864391647338088
+      Tiktik - atlas0 #038014_10: -7792467825023071902
+      Tiktik - atlas0 #038014_14: 3098220293032974045
+      Tiktik - atlas0 #038014_12: -1383102268438197342
+      Tiktik - atlas0 #038014_2: 3663764211445805799
+      Tiktik - atlas0 #038014_5: 1111070899170710494
+      Tiktik - atlas0 #038014_9: -4863026577603797514
+      Tiktik - atlas0 #038014_15: 6980949224377742870
+      Tiktik - atlas0 #038014_18: -3817948090066537204
+      Tiktik - atlas0 #038014_7: 1529187882620658402
+      Tiktik - atlas0 #038014_3: 7195255519421962960
+      Tiktik - atlas0 #038014_1: 7055074653530022747
+      Tiktik - atlas0 #038014_4: -8488480918350911117
+      Tiktik - atlas0 #038014_17: -8803641004197861989
+      Tiktik - atlas0 #038014_0: 8115732897988637635
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
